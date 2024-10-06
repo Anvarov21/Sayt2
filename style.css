@@ -1,0 +1,585 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0;
+    width: 1440px;
+    height: 60px;
+}
+li,a,button{
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+img{
+    cursor: pointer;
+    position: relative;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    color: #37447E;
+}
+.first{
+    list-style: none;
+}
+.first li{
+    display: inline-block;
+    padding: 0 20px;
+}
+.first li a {
+    position: relative;
+    left: 165px;
+    top: 6px;
+    color: #505F98;
+    text-decoration: none;
+}
+.first li a:hover{
+    text-decoration: underline;
+}
+.btn1{
+    width: 160px;
+    height: 26px;
+    border-radius: 2px;
+    position: relative;
+    left: -100px;
+    background-color: #111B47;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.btn1:hover{
+    background-color: #0b335e;
+}
+.header2 .second{
+    width: 539.37px;
+    height: 421px;
+    position: relative;
+    left: 163.12px;
+    top: 303px;
+}
+.header2 .second h1{
+    width: 539px;
+    height: 132px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 66px;
+    color: #091133;
+}
+.header2 .second p{
+    width: 539px;
+    height: 164px;
+    position: relative;
+    top: 20px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #505F98;
+}
+.header2 .second .btn2{
+    width: 189px;
+    height: 36px;
+    border-radius: 2px;
+    position: relative;
+    top: 44px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    background-color: #111B47;
+    color: #FFFFFF;
+}
+.header2 .second .btn3{
+    width: 189.13px;
+    height: 36px;
+    position: relative;
+    left: 30.2px;
+    top: 44px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #091133;
+}
+.header2 .second-img img{
+    width: 1036 px;
+    height: 1200px;
+    position: relative;
+    top: -485px;
+    left: 400px;
+    z-index: -1;
+}
+.header3{
+    width: 1440px;
+    height: 742px;
+}
+.header3 .third{
+    width: 540px;
+    height: 204px;
+}
+.header3 .third h1{
+    width: 540px;
+    height: 48px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    color: #091133;
+    position: relative;
+    left: 165px;
+    top: -230px;
+}
+.header3 .third p{
+    width: 540px;
+    height: 140px;
+    position: relative;
+    left: 165px;
+    top: -214px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #6F7CB2;
+}
+.header3 .icon1{
+    width: 255px;
+    height: 138px;
+}
+.header3 .icon1 img{
+    width: 36px;
+    height: 36px;
+    position: relative;
+    left: 165px;
+    top: -150px;
+}
+.header3 .icon1 h2{
+    width: 255px;
+    height: 26px;
+    position: relative;
+    left: 165px;
+    top: -136px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #091133;
+}
+.header3 .icon1 p{
+    width: 255px;
+    height: 54px;
+    position: relative;
+    left: 165px;
+    top: -130px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #5D6970;
+}
+.header3 .icon2{
+    width: 255px;
+    height: 138px;
+}
+.header3 .icon2 img{
+    width: 36px;
+    height: 36px;
+    position: relative;
+    left: 480px;
+    top: -290px;
+}
+.header3 .icon2 h2{
+    width: 255px;
+    height: 26px;
+    position: relative;
+    left: 480px;
+    top: -276px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #091133;
+}
+.header3 .icon2 p{
+    width: 255px;
+    height: 54px;
+    position: relative;
+    left: 480px;
+    top: -270px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #5D6970;
+}
+.header3 .third-img img{
+    width: 540px;
+    height: 524.31px;
+    position: relative;
+    left: 735px;
+    top: -750px;
+}
+.header4 .forth-img img{
+    width: 480px;
+    height: 315.85px;
+    position: relative;
+    left: 191px;
+    top: -222.44px;
+}
+.header4 .forth{
+    width: 445px;
+    height: 228px;
+}
+.header4 .forth h1{
+    width: 445px;
+    height: 48px;
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 48px;
+    color: #091133;
+    position: relative;
+    left: 781px;
+    top: -472px;
+}
+.header4 .forth p{
+    width: 445px;
+    height: 166px;
+    position: relative;
+    top: -456px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #6F7CB2;
+    position: relative;
+    left: 781px;
+}
+.header5{
+    width: 1440px;
+    height: 559px;
+}
+.header5 .fifth{
+    width: 540px;
+    height: 387px;
+}
+.header5 .fifth-img img{
+    width: 540px;
+    height: 387px;
+    position: relative;
+    left: 161px;
+    top: -101.76px;
+    border-color: #3F3D56;
+}
+.header5 .fifth h1{
+    width: 445px;
+    height: 48px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    color: #091133;
+    position: relative;
+    left: 826px;
+    top: -400px;
+}
+.header5 .fifth p{
+    width: 445px;
+    height: 166px;
+    position: relative;
+    left: 826px;
+    top: -384px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #6F7CB2;
+}
+.header6{
+    width: 1440px;
+    height: 546px;
+}
+.header6 .sixth-img img{
+    width: 445px;
+    height: 312px;
+    position: relative;
+    left: 249px;
+    top: 35px;
+    color: #3F3D56;
+}
+.header6 .sixth{
+    width: 445px;
+    height: 230px;
+}
+.header6 .sixth h1{
+    width: 445px;
+    height: 48px;
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 48px;
+    color: #091133;
+    position: relative;
+    left: 826px;
+    top: -260px;
+}
+.header6 .sixth p{
+    width: 445px;
+    height: 166px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #6F7CB2;
+    position: relative;
+    left: 826px;
+    top: -244px;
+}
+.header6 .button .btn4{
+    width: 150px;
+    height: 32px;
+    position: relative;
+    left: 826px;
+    top: -240px;
+    border-radius: 2px;
+    background-color: #111B47;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.header6 .button .btn4:hover{
+    background-color: #0b335e;
+}
+.header7{
+    width: 1475px;
+    height: 750px;
+    background-image: url('Rectangle.png');
+}
+.header7 .seventh-1{
+    width: 600px;
+    height: 116.31px;
+}
+.header7 .seventh-1 h1{
+    width: 600px;
+    height: 48px;
+    font-family: 'Roboto';
+    font-size: 36px;
+    font-weight: 500;
+    text-align: center;
+    color: #091133;
+    position: relative;
+    left: 425px;
+    top: 237px;
+}
+.header7 .seventh-1 p{
+    width: 600px;
+    height: 78px;
+    position: relative;
+    top: 253px;
+    left: 425px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: #6F7CB2;
+}
+.header7 .seventh-2 h1{
+    width: 350px;
+    height: 66px;
+    position: relative;
+    left: 550px;
+    top: 288.82px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 66px;
+    text-align: center;
+    color: #222F65;
+}
+.header7 .seventh-2 p{
+    width: 350px;
+    height: 26px;
+    position: relative;
+    left: 550px;
+    top: 280px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 26px;
+    color: #37447E;
+}
+.header7 .seventh-3 p{
+    width: 350px;
+    height: 24px;
+    position: relative;
+    left: 550px;
+    top: 300px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #5D6970;
+}
+.header7 .seventh-3 .btn5{
+    width: 189px;
+    height: 32px;
+    border-radius: 2px;
+    background-color: #111B47;
+    position: relative;
+    left: 630px;
+    top: 309.09px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.header7 .seventh-3 .btn5:hover{
+    background-color: #0b335e;
+}
+.header8{
+    width: 1475px;
+    height: 216px;
+    background-image: url('Restangle2.png');
+}
+.header8 .eight-1 p{
+    width: 133px;
+    height: 24px;
+    position: relative;
+    left: 165px;
+    top: 58px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #939EA4;
+}
+.header8 .eight-img img{
+    width: 95px;
+    height: 38px;
+    position: relative;
+    left: 680px;
+    top: 11px;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    color: #37447E;
+}
+.header8 .eight-2 .btn6{
+    width: 109px;
+    height: 26px;
+    position: relative;
+    left: 1166px;
+    top: -20px;
+    border-radius: 2px;
+    background-color: #111B47;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.header8 .eight-3 .p1{
+    width: 38px;
+    height: 24px;
+    position: relative;
+    left: 165px;
+    top: 20px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #929ECC;
+}
+.header8 .eight-3 .p2{
+    width: 38px;
+    height: 24px;
+    position: relative;
+    left: 263px;
+    top: -18px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #929ECC;
+}
+.header8 .eight-3 .p3{
+    width: 49px;
+    height: 24px;
+    position: relative;
+    left: 361px;
+    top: -58px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #929ECC;
+}
+.header8 .hr{
+    width: 1110px;
+    height: 1px;
+    position: relative;
+    left: 165px;
+    color: #CDD1D4;
+}
+.header8 .end-icons .img1{
+    width: 16px;
+    height: 16px;
+    position: relative;
+    left: 1075px;
+    top: -105px;
+    color: #B0B8BC;
+}
+.header8 .end-icons .img2{
+    width: 16px;
+    height: 16px;
+    position: relative;
+    left: 1105px;
+    top: -105px;
+    color: #B0B8BC;
+}
+.header8 .end-icons .img3{
+    width: 16px;
+    height: 16px;
+    position: relative;
+    left: 1135px;
+    top: -105px;
+    color: #B0B8BC;
+}
+.header8 .end-icons .img4{
+    width: 16px;
+    height: 16px;
+    position: relative;
+    left: 1170px;
+    top: -105px;
+    color: #B0B8BC;
+}
+.header8 .end-icons .img5{
+    width: 16px;
+    height: 16px;
+    position: relative;
+    left: 1200px;
+    top: -105px;
+    color: #B0B8BC;
+}

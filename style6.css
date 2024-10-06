@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header1 .first-img img{
+    width: 515px;
+    height: 615px;
+}
+.header1 .first-icon1 img{
+    width: 48px;
+    height: 48px;
+    position: relative;
+    left: 620px;
+    top: -500px;
+}
+.header1 .first-icon1 h2{
+    width: 335px;
+    height: 30px;
+    position: relative;
+    left: 620px;
+    top: -480px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #091133;
+}
+.header1 .first-icon1 p{
+    width: 335px;
+    height: 48px;
+    position: relative;
+    left: 620px;
+    top: -472px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #5D6970;
+}
+.header1 .first-icon2 img{
+    width: 48px;
+    height: 48px;
+    position: relative;
+    left: 1000px;
+    top: -645px;
+}
+.header1 .first-icon2 h2{
+    width: 335px;
+    height: 30px;
+    position: relative;
+    left: 1000px;
+    top: -625px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #091133;
+}
+.header1 .first-icon2 p{
+    width: 335px;
+    height: 48px;
+    position: relative;
+    left: 1000px;
+    top: -617px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #5D6970;
+}
+.header1 .first-icon3 img{
+    width: 48px;
+    height: 48px;
+    position: relative;
+    left: 620px;
+    top: -580px;
+}
+.header1 .first-icon3 h2{
+    width: 335px;
+    height: 30px;
+    position: relative;
+    left: 620px;
+    top: -560px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #091133;
+}
+.header1 .first-icon3 p{
+    width: 335px;
+    height: 48px;
+    position: relative;
+    left: 620px;
+    top: -552px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #5D6970;
+}
+.header1 .first-icon4 img{
+    width: 48px;
+    height: 48px;
+    position: relative;
+    left: 1000px;
+    top: -730px;
+}
+.header1 .first-icon4 h2{
+    width: 335px;
+    height: 30px;
+    position: relative;
+    left: 1000px;
+    top: -710px;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #091133;
+}
+.header1 .first-icon4 p{
+    width: 335px;
+    height: 48px;
+    position: relative;
+    left: 1000px;
+    top: -702px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #5D6970;
+}
